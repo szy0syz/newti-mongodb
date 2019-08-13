@@ -35,7 +35,7 @@
 ### 参数与SKU的关系
 ![图片](https://uploader.shimo.im/f/0pcKQChTykMEd3bP.png!thumbnail)
 # 第5章 常见问题与企业级解决方案
-## UUID
+### UUID
 * UUID是通用唯一识别码的缩写，其目的让分布式系统中所有的元素，都能有唯一辨识信息，而不需要通过中央控制端来辨识消息的指定。
 ### 为什么有人想要使用UUID
 * 在数据库集群中，为了避免每个MySQL各自生成的主键产生重复，从而产生UUID。
